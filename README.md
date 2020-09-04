@@ -1,25 +1,25 @@
-# Showcase
-#EN:
-
-Here I show what I've done
-
-SimpleCalc is a simple calculator in console with some menu and input validation
-
-Coursera Yandex white - contains my solution of final programming task from course Coursera > "Basics of development C++: white belt"
-
-
-#RU:
-
-Çäåñü ÿ ïîêàçûâàþ, ÷òî ÿ ñäåëàë
-
-SimpleCalñ ýòî ïðîñòîé êàëüêóëÿòîð â êîíñîëè ñ ïðîñòûì ìåíþ è ïðîâåðêîé ââîäà
-
-Coursera Yandex white - ñîäåðæèò â ñåáå ìîå ðåøåíèå ïîñëåäíåé çàäà÷è êóðñà Coursera > "Îñíîâû ðàçðàáîòêè íà C++: áåëûé ïîÿñ"
-
-#Releases
-
-Èñïîëíÿåìûé ôàéë / Executable
-SimpleCalc -> Release -> SimpleCalc.exe
-
-
-
+ï»¿       # Showcase
+       #EN:
+       
+       Here I show what I've done
+       
+       SimpleCalc is a simple calculator in console with some menu and input validation
+       
+       Coursera Yandex white - contains my solution of final programming task from course Coursera > "Basics of development C++: white belt"
+       
+       
+       #RU:
+       
+       Ð—Ð´ÐµÑÑŒ Ñ Ð¿Ð¾ÐºÐ°Ð·Ñ‹Ð²Ð°ÑŽ, Ñ‡Ñ‚Ð¾ Ñ ÑÐ´ÐµÐ»Ð°Ð»
+       
+       SimpleCalÑ ÑÑ‚Ð¾ Ð¿Ñ€Ð¾ÑÑ‚Ð¾Ð¹ ÐºÐ°Ð»ÑŒÐºÑƒÐ»ÑÑ‚Ð¾Ñ€ Ð² ÐºÐ¾Ð½ÑÐ¾Ð»Ð¸ Ñ Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ð¼ Ð¼ÐµÐ½ÑŽ Ð¸ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¾Ð¹ Ð²Ð²Ð¾Ð´Ð°
+       
+       Coursera Yandex white - ÑÐ¾Ð´ÐµÑ€Ð¶Ð¸Ñ‚ Ð² ÑÐµÐ±Ðµ Ð¼Ð¾Ðµ Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½ÐµÐ¹ Ð·Ð°Ð´Ð°Ñ‡Ð¸ ÐºÑƒÑ€ÑÐ° Coursera > "ÐžÑÐ½Ð¾Ð²Ñ‹ Ñ€Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ¸ Ð½Ð° C++: Ð±ÐµÐ»Ñ‹Ð¹ Ð¿Ð¾ÑÑ"
+       
+       #Releases
+       
+       Ð˜ÑÐ¿Ð¾Ð»Ð½ÑÐµÐ¼Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» / Executable
+       SimpleCalc -> Release -> SimpleCalc.exe
+       
+       
+       
