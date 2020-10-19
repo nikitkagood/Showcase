@@ -11,7 +11,7 @@
        Содержит в себе мое решение финальной задачи курса Coursera > "Основы разработки на C++: белый пояс"
        
        Исполняемый файл находится в папке Release каждого проекта
-       SimpleCalc -> Release -> SimpleCalc.exe
+       Например: SimpleCalc -> Release -> SimpleCalc.exe
        
        
        
