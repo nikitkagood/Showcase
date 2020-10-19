@@ -13,3 +13,7 @@ Contains my solution of final programming task from course Coursera > "Basics of
 
 You find .exe in Release folder of a project. Or there will be only code cause no .exe intended.
 For example: SimpleCalc -> Release -> SimpleCalc.exe
+
+# Encoding problems
+
+If you see meaningless symbols just download a file and open it on your computer. 
