@@ -11,5 +11,5 @@ Contains my solution of final programming task from course Coursera > "Basics of
        
 # Releases
 
-You find .exe in Release folder of each project
+You find .exe in Release folder of a project. Or there will be only code cause no .exe intended.
 For example: SimpleCalc -> Release -> SimpleCalc.exe
