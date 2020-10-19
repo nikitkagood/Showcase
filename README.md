@@ -1,7 +1,5 @@
 # Showcase
 About - myself!
-
-# EN:
        
 Here I show what I've done
        
