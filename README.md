@@ -2,7 +2,8 @@
 About - myself!
        
 Here I show what I've done
-P.S This repository is not yet finished. It may lack something you'd want to see. But one of the biggest projects i've made is already there.
+P.S This repository is not yet finished. 
+It may lack something you'd want to see. But one of the biggest projects i've made is already there.
        
 # SimpleCalc 
 Is a simple calculator in console with some menu and input validation
