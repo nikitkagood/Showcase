@@ -1,4 +1,0 @@
-C:\Users\Sobaken\source\repos\SimpleTasks\Debug\SimpleCalc.exe
-C:\Users\Sobaken\source\repos\SimpleTasks\Debug\SimpleCalc.pdb
-D:\GitRep\SimpleCalc\Debug\SimpleCalc.exe
-D:\GitRep\SimpleCalc\Debug\SimpleCalc.pdb
